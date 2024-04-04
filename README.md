@@ -7,6 +7,8 @@ You can find me on various social platforms, the one I use the most are:
 * [X / Twitter](https://twitter.com/wesleycabus)
 * [LinkedIn](https://linkedin.com/in/wcabus)
 
+If you're interested in sessions or workshops that I could deliver at your company or conference, have a look at my [Sessionize](https://sessionize.com/wesley-cabus) page.
+
 I can also be found on other platforms like [Mastodon](https://toot.community/@wesleycabus), [Bluesky Social](https://bsky.app/profile/gotsharp.be) and [Threads](https://www.threads.net/@wesleycabus), but as long as I can't crosspost, the ones above are your safest bets.
 
 <!--
