@@ -1,7 +1,7 @@
 ## Hi there, I'm Wesley 👋
 I'm a coding architect at [Xebia](https://xebia.com) based in Antwerp, Belgium. Most of my work involves .NET / C# and Azure, creating ASP.NET Core web apps and APIs or cloud-native solutions.
 
-## Connecting with me 🔗
+### Connecting with me 🔗
 You can find me on various social platforms, the one I use the most are:
 
 * [X / Twitter](https://twitter.com/wesleycabus)
@@ -11,9 +11,10 @@ If you're interested in sessions or workshops that I could deliver at your compa
 
 I can also be found on other platforms like [Mastodon](https://toot.community/@wesleycabus), [Bluesky Social](https://bsky.app/profile/gotsharp.be) and [Threads](https://www.threads.net/@wesleycabus), but as long as I can't crosspost, the ones above are your safest bets.
 
-<!--
-## 💗 Sponsor me
+### 💗 Sponsor me
 You can [sponsor me](https://github.com/sponsors/wcabus/) using GitHub sponsors :)
+
+<!--
 
 **wcabus/wcabus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
