@@ -12,7 +12,7 @@ If you're interested in sessions or workshops that I could deliver at your compa
 I can also be found on other platforms like [Mastodon](https://toot.community/@wesleycabus), [Bluesky Social](https://bsky.app/profile/gotsharp.be) and [Threads](https://www.threads.net/@wesleycabus), but as long as I can't crosspost, the ones above are your safest bets.
 
 ### 💗 Sponsor me
-You can [sponsor me](https://github.com/sponsors/wcabus/) using GitHub sponsors :)
+You can [sponsor me](https://github.com/sponsors/wcabus/) using GitHub sponsors 🙂
 
 <!--
 
