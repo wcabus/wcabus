@@ -1,5 +1,5 @@
 ## Hi there, I'm Wesley 👋
-I'm a coding architect at [Xebia](https://xebia.com) based in Antwerp, Belgium. Most of my work involves .NET / C# and Azure, creating ASP.NET Core web apps and APIs or cloud-native solutions.
+I'm a Customer Success Engineer at [Duende Software](https://duendesoftware.com) based in Antwerp, Belgium.
 
 ### Connecting with me 🔗
 You can find me on various social platforms, the one I use the most are:
